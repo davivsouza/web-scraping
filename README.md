@@ -52,7 +52,7 @@ $ cd web-scraping
 $ npm i 
 
 # Execute a aplicação, exemplo:
-$ npm ts-node src/getNews.ts
+$ npx ts-node src/getNews.ts
 
 ```
 
