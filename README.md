@@ -27,8 +27,8 @@ Montar um aplicação que acesse um site na web e extraia dados dos mesmos.
 
 <h1 id="funcionalidades">Funcionalidades</h1>
 
-- [x] **getNews.ts** abre um site de notícias e pega o nome e a url da notícia
-- [x] **screenShot**.ts abre o link que o você colocar no terminar e tira uma screenshot
+- [x] **getNews.ts**: abre um site de notícias e pega o nome e a url da notícia
+- [x] **screenShot**.ts: abre o link que você colocar no terminal e tira uma screenshot
     
 
 
